@@ -24,7 +24,7 @@ function TextSection() {
                     <li>Спазване на изискванията за качество и стандарти на клиентите и/или на техни специфични изисквания.</li>
                 </ul>
             </span>
-            <h2 className="text-4xl lg:text-4xl lg:w-2/4 lg:ml-6 p-5 lg:p-10 font-medium text-dark-blue">
+            <h2 className="text-4xl lg:text-4xl lg:w-2/4 lg:ml-14 p-5 lg:p-4 font-medium text-dark-blue">
                 Предимства
             </h2>
             <p className="text-dark-blue text-left lg:w-5/12 ml-10 lg:ml-[40vh]">
